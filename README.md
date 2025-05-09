@@ -4,7 +4,7 @@ This repository contains a CSS style guide designed for a modern, minimalistic u
 
 📸 Screenshot
 
-🔹 ![](./photos/Screenshot.png)
+🔹 ![](./photos/mobile_screenshoot_375x812.jpg)
 
 🖌️ Features
 
